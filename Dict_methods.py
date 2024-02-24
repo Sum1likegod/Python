@@ -5,7 +5,7 @@
 # print(dict_ex.keys())
 
 
-# dict_ex_2 = {"item_5":'rope', "item_4":'dope', "item_3":'change' }
+dict_ex_2 = {"item_5":'rope', "item_4":'dope', "item_3":'change' }
 
 # dict_ex.update(dict_ex_2)
 # print('\n',dict_ex)
@@ -17,3 +17,7 @@
 # print(dict_ex)
 # dict_ex.popitem()
 # print(dict_ex)
+
+
+# del dict_ex_2['item_5']
+# print(dict_ex_2)
